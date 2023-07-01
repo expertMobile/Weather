@@ -2,7 +2,7 @@
 
 A Weather app with 3d UI built in Flutter
 
-![Screenshot 2023-02-09 at 3 05 08 PM](https://user-images.githubusercontent.com/31922733/217775220-5d269da4-8984-404e-83a2-2ce9f7535e2d.png)
+<!-- ![Screenshot 2023-02-09 at 3 05 08 PM](https://user-images.githubusercontent.com/31922733/217775220-5d269da4-8984-404e-83a2-2ce9f7535e2d.png) -->
 
 
 ## Getting Started
